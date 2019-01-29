@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="1"
+            tests="2">
+
+  <testsuite name="form"
+    errors="0" failures="1" hostname="" id="" package="form" skipped="0"
+    tests="2" time="19.58" timestamp="Tue, 29 Jan 2019 06:03:26 GMT">
+  
+    <testcase name="Opening the Pop-up Menu" classname="form" time="9.068" assertions="5">
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Submit a valid query" classname="form" time="10.51" assertions="3">
+
+    
+
+      <failure message="Expected element &lt;#validHeader&gt; text to equal: &#34;Valid&#34; in 500ms">    at Object.Submit a valid query (C:\Users\Thomas\DevMountain\wanted-queries\tests\form.js:69:21)</failure>
+
+    
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>

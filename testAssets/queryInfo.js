@@ -1,0 +1,4 @@
+module.exports = [
+    {header: 'AAAAAAAAA', MKE: 'ABC', OAI: '111111111', name: 'G.I. Jane', sex: 'F', height: '508', weight: '123', race: 'W', hair: 'blonde', offense: 'theft', warrantDate: '12122012', driversLicense: 'A123456789', driversLicenseState: 'CA', driversLicenseExpiry: '12122022', licensePlate: 'AAA1234', licenseState: '', licensePlateExpiry: '12122019',},
+    {header: 'BBBBBBBBB', MKE: 'XYZ', OAI: '222222222', name: 'G.I. Joe', sex: 'M', height: '608', weight: '223', race: 'B', hair: 'black', offense: 'fraud', warrantDate: '11112011', driversLicense: 'A987654321', driversLicenseState: 'AZ', driversLicenseExpiry: '11112021', licensePlate: 'BBB9876', licenseState: '', licensePlateExpiry: '11112019',},
+]
